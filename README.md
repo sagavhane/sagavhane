@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sangram Gavhane 👋
 
-<!--
-**sagavhane/sagavhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech Electronics and Telecommunication Engineering student.
 
-Here are some ideas to get you started:
+💻 Aspiring Java Backend Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies I'm Learning
+- Java and Object-Oriented Programming
+- Data Structures and Algorithms
+- MySQL and SQL
+- Spring Boot and REST APIs
+- Git and GitHub
+
+### 💡 What I'm Working On
+- Solving Java programming problems
+- Building practical projects
+- Strengthening my backend development skills
+
+### 🤝 Connect With Me
+- **GitHub:** https://github.com/sagavhane
+- **LinkedIn:** https://www.linkedin.com/in/sangram-gavhane-79205830a/
+
+Always learning, building, and improving! 🚀
