@@ -9,7 +9,8 @@
 - Data Structures and Algorithms
 - MySQL and SQL
 - Spring Boot and REST APIs
-- Git and GitHub
+- Microservices
+- Docker
 
 ### 💡 What I'm Working On
 - Solving Java programming problems
